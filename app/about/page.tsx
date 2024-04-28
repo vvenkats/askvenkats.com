@@ -31,12 +31,75 @@ export default function Page() {
         management, which significantly improved targeting efficiency.
       </p>
 
-      <p>TODO: Add more content here</p>
-
-      <hr />
       <p>
-        You can read more <a href="https://venkatvenkatakrishnan.com">here</a>
+        In 2019, as an Engagement Manager and Healthcare Lead at Mu Sigma Inc, he managed analytics
+        solutions that resulted in substantial revenue growth. He started the Software as a Medical
+        Device Vertical at Compliance Group Inc, where he developed a hybrid agile-waterfall SDLC
+        tailored for regulated systems. His stint at Amazon UK involved leading AI-driven projects
+        that enhanced both customer and healthcare services.
       </p>
+
+      <h2>Philosophy</h2>
+
+      <p>
+        Venkatakrishnan has had more than 17 years understanding, deciphering userneeds and
+        converting them into actionable requirements. He has worked with C-Level executives as well
+        as analysts and scientists, easily conversing in their native tongue. A customer-first
+        philosophy that drives his product vision, he has delivered multiple projects and products
+        on time and under budget. An early adopter of advanced technology, he launched his first FDA
+        regulated ML product in 2008. He is also adept at creating prioritization frameworks,
+        conducting design workshops and navigating complex teams to launch medical device products.
+      </p>
+
+      <p>
+        Venkatakrishnan has had experience building and leading teams in US, UK, India and Canada.
+        He also has a deep understanding of the healthcare systems, R&D ecology and legal and
+        regulatory environments of the EU, UK, US, Canada and India.
+      </p>
+
+      <h2>Current Role</h2>
+
+      <p>
+        Venkatakrishnan currently consults for startups and scale up companies in London, helping
+        them align their product strategies with industry compliance standards, especially in gen AI
+        technologies. He also helps the companies with their financial modeling and assisting them
+        acquire early seed funding as well as grants.
+      </p>
+
+      <h2>Contributions and Achievements</h2>
+
+      <p>
+        He has significantly influenced medical device development with his hybrid Agile-Waterfall
+        SDLC, reducing paperwork by 80% and transitioning systems to cloud-based operations. His
+        work has enabled the training and development of over 500 employees worldwide.
+      </p>
+      <p>
+        He created a first of a kind product for Amazon, called Clinician Support, that integrates
+        online marketplace, healthcare practitioners, customer support executives, regulatory and
+        legal authorities.
+      </p>
+      <p>
+        He has also worked with Data Scientists, and Pharma experts to interpolate and predict BMI
+        and other clinical data from insurance databases using AI/ML technologies. This has been
+        published in leading peer reviewed academic journals.
+      </p>
+
+      <h2>Publications and Certifications</h2>
+      <p>
+        Venkatakrishnan holds several certifications including PMP, Certified Scrum Coach, and
+        Medical Device Regulatory Strategy. He has authored numerous technical and regulatory
+        documents crucial for medical device approval in the US and EU.
+      </p>
+
+      <h2>External Links</h2>
+      <ul>
+        <li>
+          <a href="https://www.linkedin.com">LinkedIn Profile</a>
+        </li>
+        <li>
+          <a href="https://venkatvenkatakrishnan.com">Professional Website</a>
+        </li>
+      </ul>
     </div>
   )
 }
