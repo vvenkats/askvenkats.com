@@ -1,6 +1,6 @@
 const headerNavLinks = [
   { href: '/', title: 'Askvenkats' },
-  { href: 'https://venkatvenkatakrishnan.com/', title: 'About' },
+  { href: '/cv', title: 'CV' },
   { href: '/blog', title: 'Blog' },
   { href: '/white-papers', title: 'White Papers' },
 ]
