@@ -94,10 +94,10 @@ export default function Page() {
       <h2>External Links</h2>
       <ul>
         <li>
-          <a href="https://www.linkedin.com">LinkedIn Profile</a>
+          <a href="https://www.linkedin.com/in/venkat-venkatakrishnan/">LinkedIn Profile</a>
         </li>
         <li>
-          <a href="https://venkatvenkatakrishnan.com">Professional Website</a>
+          <a href="https://venkatvenkatakrishnan.com">Complete CV</a>
         </li>
       </ul>
     </div>
