@@ -3,7 +3,7 @@ title: 'The Future of Design Thinking in an Era of Evolved Generative AI'
 date: '2024-05-04'
 tags: ['AI', 'Design Thinking', 'Labour', 'Change Management', 'Gen-AI' ]
 draft: false
-summary: This article explores how GDPR has influenced, been interpreted and implemented by various industries. It also talks about 
+summary: This article explores how design thinking is going to evolve in the future when Gen AI become integrated into our daily lives. I have also provided examples of some companies that are ahead of the curve to embrace this transformation 
 ---
 
 # The Future of Design Thinking in an Era of Evolved Generative AI
