@@ -18,7 +18,8 @@ export default function Page() {
         University, followed by a Master’s in Cell and Molecular Biology at the University of
         Arkansas, and an MBA from the University of Chicago Booth School of Business. He specialized
         in Marketing Analytics and Strategy, and was active in various clubs and centers at Booth,
-        including being Co-Chair of the Marketing Club. He recenly completed an advanced certification in Artificial Intelligence from Said Business School, Oxford University
+        including being Co-Chair of the Marketing Club. He recenly completed an advanced certification 
+        in Artificial Intelligence from Said Business School, Oxford University.
       </p>
       <h2>Career</h2>
 
